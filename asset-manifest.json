@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/filterland-sales-react/static/css/main.990b32b3.chunk.css",
+    "main.js": "/filterland-sales-react/static/js/main.b1a39156.chunk.js",
+    "main.js.map": "/filterland-sales-react/static/js/main.b1a39156.chunk.js.map",
+    "runtime-main.js": "/filterland-sales-react/static/js/runtime-main.e5500718.js",
+    "runtime-main.js.map": "/filterland-sales-react/static/js/runtime-main.e5500718.js.map",
+    "static/css/2.150d169a.chunk.css": "/filterland-sales-react/static/css/2.150d169a.chunk.css",
+    "static/js/2.4372683c.chunk.js": "/filterland-sales-react/static/js/2.4372683c.chunk.js",
+    "static/js/2.4372683c.chunk.js.map": "/filterland-sales-react/static/js/2.4372683c.chunk.js.map",
+    "static/js/3.4a6116b6.chunk.js": "/filterland-sales-react/static/js/3.4a6116b6.chunk.js",
+    "static/js/3.4a6116b6.chunk.js.map": "/filterland-sales-react/static/js/3.4a6116b6.chunk.js.map",
+    "index.html": "/filterland-sales-react/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/filterland-sales-react/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.990b32b3.chunk.css.map": "/filterland-sales-react/static/css/main.990b32b3.chunk.css.map",
+    "static/js/2.4372683c.chunk.js.LICENSE.txt": "/filterland-sales-react/static/js/2.4372683c.chunk.js.LICENSE.txt",
+    "static/media/bg-ecclip.6d81475f.svg": "/filterland-sales-react/static/media/bg-ecclip.6d81475f.svg",
+    "static/media/bg-sec.dd7f4731.svg": "/filterland-sales-react/static/media/bg-sec.dd7f4731.svg",
+    "static/media/crmphone.bbacac85.svg": "/filterland-sales-react/static/media/crmphone.bbacac85.svg",
+    "static/media/footer-mage.96697517.svg": "/filterland-sales-react/static/media/footer-mage.96697517.svg",
+    "static/media/fs-logo.53aa0a5e.svg": "/filterland-sales-react/static/media/fs-logo.53aa0a5e.svg",
+    "static/media/hamburger-btn.8be91539.svg": "/filterland-sales-react/static/media/hamburger-btn.8be91539.svg",
+    "static/media/headercrt.a6d79cc3.svg": "/filterland-sales-react/static/media/headercrt.a6d79cc3.svg",
+    "static/media/images1.1724749a.svg": "/filterland-sales-react/static/media/images1.1724749a.svg",
+    "static/media/images2.2b3a4794.svg": "/filterland-sales-react/static/media/images2.2b3a4794.svg",
+    "static/media/images3.2a372db7.svg": "/filterland-sales-react/static/media/images3.2a372db7.svg",
+    "static/media/imgsets.bbcc155e.svg": "/filterland-sales-react/static/media/imgsets.bbcc155e.svg",
+    "static/media/laptop-animation.ae04c0a6.svg": "/filterland-sales-react/static/media/laptop-animation.ae04c0a6.svg",
+    "static/media/offline-online.d92cb7c0.svg": "/filterland-sales-react/static/media/offline-online.d92cb7c0.svg",
+    "static/media/phone-animation1.50ebab87.svg": "/filterland-sales-react/static/media/phone-animation1.50ebab87.svg",
+    "static/media/request-sale.a9003719.svg": "/filterland-sales-react/static/media/request-sale.a9003719.svg",
+    "static/media/salestracking.3bbea995.svg": "/filterland-sales-react/static/media/salestracking.3bbea995.svg",
+    "static/media/whatsapp.a851d32f.svg": "/filterland-sales-react/static/media/whatsapp.a851d32f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5500718.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.4372683c.chunk.js",
+    "static/css/main.990b32b3.chunk.css",
+    "static/js/main.b1a39156.chunk.js"
+  ]
+}
