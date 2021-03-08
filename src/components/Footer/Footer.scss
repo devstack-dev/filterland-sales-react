@@ -14,7 +14,7 @@
 .footer-des {
     color: #734C32;
     font-size: 18px;
-    padding-left: 2em;
+    padding-left: em;
     font-weight: 600;
     font-family: Roboto;
 }
@@ -45,6 +45,9 @@
 .footer-imss {
     flex-grow: 8;
 }
+.ac-h:hover {
+    color: white;
+}
 @media only screen and (max-width: 768px){ 
     .footer-imss {
         flex-grow: 1;
@@ -65,7 +68,7 @@
     .footer-de {
         color: #734C32;
         font-size: 17px;
-        padding-left: 0em;
+        padding-left: em;
         text-align: center;
     }
     .ces {
@@ -75,6 +78,7 @@
         color: #734C32;
         font-size: 15px;
         padding-top: 1em;
+        padding-left: 0em;
     }
     .navfooterr {
         text-align: center;
@@ -83,8 +87,12 @@
         padding-right: 1em;
         padding-top: 1em;
         text-align: center;
-        padding-left: 1em;
+        padding: 1em;
+        text-decoration: none !important;
     
+    }
+    .images_sets:hover {
+        text-decoration: none;
     }
     
 }
