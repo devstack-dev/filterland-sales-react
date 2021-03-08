@@ -20,7 +20,7 @@
     "react-router-dom": "^6.0.0-alpha.5",
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
-  }, 
+  },
   "scripts": {
     "dev": "react --p 4531",
     "start": "react-scripts start",
