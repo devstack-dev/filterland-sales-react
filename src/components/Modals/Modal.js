@@ -4,7 +4,7 @@ import {Button, Modal, Col, Row, Form} from 'react-bootstrap';
 import RequestImage from '../../assets/imgs/request-sale.svg';
 let sectionStyle = {
     width: "100%",
-    height: "400px",
+    height: "430px",
     backgroundImage: `url(${RequestImage})`,
     backgroundPosition: 'center',
     backgroundSize: 'cover',

@@ -109,7 +109,7 @@ export default function Box1(props) {
                         </div>
                     </Row>
                     <div>
-                        <div className="filterlandsals">Our Solutions</div>
+                        <div className="filterlandsals1">Our Solutions</div>
                         <div className="packages_sales">
                             <div className="packages_sales des_online">
                                 sales is a smart sales analysis app that allows small and medium scale businesses to manage their inventories, customers, expenses 

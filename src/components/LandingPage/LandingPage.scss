@@ -21,11 +21,12 @@
   box-shadow: 0px 2px 4px 1px rgba(0, 0, 0, 0.25);
   border-radius: 5px;
   border: 0;
-  font-family: Roboto;
+  font-family: Arial, Helvetica, sans-serif;
   font-style: normal;
   font-size: 15px;
   line-height: 21px;
   padding: 0.3em 1.5em 0.3em 1.5em;
+  font-weight: 600;
    
 }
 .start-free:hover{
@@ -37,13 +38,14 @@
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 5px;
   color: #503523;
-  font-family: Roboto;
+  font-family: Arial, Helvetica, sans-serif;
   font-style: normal;
   font-size: 15px;
   line-height: 21px;
   border: 0;
   margin-left: 1em;
   padding: 0.3em 1.5em 0.3em 1.5em;
+  font-weight: 600;
 }
 .watch-demo:hover{
   background: #C29F21;
@@ -166,12 +168,11 @@
   
 .section_content2 {
   background-color: white;
-  padding-top: 2em;
   padding-bottom: 2em;
   width: 100% !important;
   border-top: 1px solid #EAE0D9;
   border-bottom: 1px solid #EAE0D9;
-  margin-top: 4em;
+  margin-top: 1em;
 }
 .first-bg img {
   z-index: 0;
@@ -183,7 +184,7 @@
   flex: 50%;
   vertical-align: middle;
 }
-.filterlandsals {
+.filterlandsals1 {
   color: #734C32;
   font-weight: 700;
   font-size: 36px;
@@ -191,7 +192,17 @@
   z-index: 40;
   font-family: Roboto;
   padding-top: 1em;
-  padding-bottom: 0.3em;
+  padding-bottom: 0em;
+}
+.filterlandsals {
+  color: #734C32;
+  font-weight: 700;
+  font-size: 36px;
+  text-align: center;
+  z-index: 40;
+  font-family: Roboto;
+  padding-top: 0.3em;
+  padding-bottom: 0em;
 }
 .first-bg {
   flex-grow: 8;
@@ -435,6 +446,37 @@ z-index: 100;
     background-color: #FFF6EF;
     height: 150vh;
     padding-top: 3em;
+  }
+  .start-free {
+    background-color: #734C32;
+    box-shadow: 0px 2px 4px 1px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    border: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 21px;
+    padding: 0.3em 1em 0.3em 1em;
+    font-weight: 500;
+     
+  }
+  .start-free:hover{
+      background: #503523;
+      font-weight: 600;
+  }
+  .watch-demo {
+    background: #F0C52C;
+    box-shadow: 0px 2px 4px 1px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    color: #503523;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 21px;
+    border: 0;
+    margin-left: 1em;
+    padding: 0.3em 1em 0.3em 1em;
+    font-weight: 500;
   }
 
 } 
