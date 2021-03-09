@@ -56,7 +56,7 @@ export default function Box1(props) {
             </section>
             <section id="box_wrapper">
                 <div className="section_content2">
-                    <div className="filterlandsals">What’s new at Filterland Sales?</div>
+                    <div className="filterlandsals1">What’s new at Filterland Sales?</div>
                     <div className="bg-section">
                         
                         <div className="first-bg">
