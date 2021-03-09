@@ -70,17 +70,17 @@
 .animatp {
   position: absolute;
   z-index: 1;
-  top: 6em;
+  top: 2em;
   animation-name : mymove;
   animation-iteration-count : infinite;
   animation-duration : 3s;
   animation-direction: alternate-reverse;
 }
 
+
 @keyframes mymove {
   from {transform: translateY(0px);}
   to {transform: translateY(20px)}
-  0%   { top: 0px;}
 }
 .animatp img {
   display: block;
@@ -128,7 +128,7 @@
   flex-wrap: wrap;
 }
 .row-section img {
-  width: 93%;
+  width: 100%;
 }
 .row-section1 {
   position: relative;
@@ -190,13 +190,15 @@
   text-align: center;
   z-index: 40;
   font-family: Roboto;
+  padding-top: 1em;
+  padding-bottom: 0.3em;
 }
 .first-bg {
   flex-grow: 8;
 }
 .bg-bg {
   background-color: #FFF6EF;
-  height: 80vh;
+  height: 90vh;
   padding-top: 3em;
 }
 .whatsapp_float {
@@ -220,10 +222,31 @@ z-index: 100;
   font-family: Lato !important;
 }
 .cty  {
-  width: 60%;
+  width: 70%;
 }
 
 @media only screen and (max-width: 768px){ 
+  .animatp {
+    position: absolute;
+    z-index: 1;
+    top: 3em;
+    animation-name : mymove;
+    animation-iteration-count : infinite;
+    animation-duration : 3s;
+    animation-direction: alternate-reverse;
+    animation-duration: normal;
+    animation-fill-mode: forwards;
+    animation-play-state: running;
+    // animation-delay: 0s;
+    
+  }
+  
+  @keyframes mymove {
+    from {
+      transform: translateY(0px);
+    }
+    to {transform: translateY(20px)}
+  }
   .cty  {
     width: 100%;
   }
@@ -352,6 +375,8 @@ z-index: 100;
   }
   .filterlandsals {
     font-size: 22px;
+    padding-top: 0.5;
+    padding-bottom: 0;
   }
 
    .row-section {
