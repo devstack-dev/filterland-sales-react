@@ -33,10 +33,12 @@
     background: #503523;
     font-weight: 600;
     border-color: #503523;
+    box-shadow: 0px 2px 4px 1px rgba(0, 0, 0, 0.25);
 } 
 .start-free:focus{
   background-color: #503523;
   border-color: #503523 !important;
+  box-shadow: 0px 2px 4px 1px rgba(0, 0, 0, 0.25);
 }
 .start-free:active{
   background-color: #503523;
@@ -49,6 +51,7 @@
   color: #fff;
   /* background-color: #0062cc; */
    border-color: 0; 
+   box-shadow: 0px 2px 4px 1px rgba(0, 0, 0, 0.25);
 }
 .watch-demo {
   background: #F0C52C;
@@ -69,16 +72,19 @@
   font-weight: 700;
   color: #503523;
   border-color: #C29F21;
+  box-shadow: 0px 2px 4px 1px rgba(0, 0, 0, 0.25);
 }
 .watch-demo:active{
   background: #C29F21;
   font-weight: 700;
   color: #503523;
   border-color: #C29F21;
+  box-shadow: 0px 2px 4px 1px rgba(0, 0, 0, 0.25);
 }
 .watch-demo:focus {
   background: #C29F21;
   color: #503523;
+  box-shadow: 0px 2px 4px 1px rgba(0, 0, 0, 0.25);
 }
 .imgfloat {
   position: absolute;
