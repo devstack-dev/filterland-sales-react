@@ -15,7 +15,7 @@ import Modal from '../../components/Modals/Modal';
 import RequestImage from '../../assets/imgs/request-sale.svg';
 let sectionStyle = {
     width: "100%",
-    height: "400px",
+    height: "450px",
     backgroundImage: `url(${RequestImage})`,
     backgroundPosition: 'center',
     backgroundSize: 'cover',
@@ -70,12 +70,12 @@ export default function Box1(props) {
                 <Container className="bg-whie">
                     <Row className="row-section">
                         <div className="wro_wrapper">
-                            <Col md="5" sm="12" className="col-imgs">
+                            <Col md="4" sm="12" className="col-imgs">
                                 <div>
                                     <img src={Bgrond3} alt="filterland" width="100%" />
                                 </div>
                             </Col>
-                            <Col md="7" sm="12">
+                            <Col md="8" sm="12">
                                 <div className="ty_tr">
                                     <div className="oflin_online rewt">Work offline.</div>
                                     <div className="oflin_online">No internal Required</div>
@@ -136,12 +136,12 @@ export default function Box1(props) {
                         </Col>
                     </Row>
                     <Row className="row-section3">
-                        <Col md="5" sm="12" className="col-imgs">
+                        <Col md="4" sm="12" className="col-imgs">
                             <div>
                                 <img src={Bgrond6} alt="filterland" width="" />
                             </div>
                         </Col>
-                        <Col md="7" sm="12">
+                        <Col md="8" sm="12">
                             <div className="bus_conten">
                                 <div className="oflin_online">Grow your sales using </div>
                                 <div className="oflin_online"> Data Analytics.</div>
@@ -156,33 +156,33 @@ export default function Box1(props) {
             </section>
             <section  className="bg-bg ">
                 <div  className="container cty">
-                <Row >
-                    <Col md="6" sm="12" className="bg-white">
-                        <div style={ sectionStyle }></div>
-                    </Col>
-                    <Col md="6" sm="12" className="bg-white"> 
-                    <div className="rr_aa form_sec">Request Access</div>
-                    <div className="fill_moda form_sec">Kindly fill the form below and we will get back to you as soon as possible.</div>
-                    <Form className="form_sec">
-                        <Form.Group controlId="formBasicEmail">
-                            <Form.Label>Full Name:</Form.Label>
-                            <Form.Control size="sm" type="text" placeholder="" />
-                        </Form.Group>
-                        <Form.Group controlId="formBasicEmail">
-                            <Form.Label>Company Name:</Form.Label>
-                            <Form.Control size="sm" type="text" placeholder="" />
-                        </Form.Group>
+                    <Row >
+                        <Col md="6" sm="12" className="bg-whit">
+                            <div style={ sectionStyle }></div>
+                        </Col>
+                        <Col md="6" sm="12" className="bg-white"> 
+                        <div className="rr_aa form_sec">Request Access</div>
+                        <div className="fill_moda form_sec">Kindly fill the form below and we will get back to you as soon as possible.</div>
+                        <Form className="form_sec">
+                            <Form.Group controlId="formBasicEmail">
+                                <Form.Label>Full Name:</Form.Label>
+                                <Form.Control size="sm" type="text" placeholder="" />
+                            </Form.Group>
+                            <Form.Group controlId="formBasicEmail">
+                                <Form.Label>Company Name:</Form.Label>
+                                <Form.Control size="sm" type="text" placeholder="" />
+                            </Form.Group>
 
-                        <Form.Group controlId="formBasicPassword">
-                            <Form.Label size="sm">Email</Form.Label>
-                            <Form.Control size="sm" type="email" placeholder="" />
-                        </Form.Group>
-                        <Button className="submit_btn" type="submit">
-                            Submit
-                        </Button>
-                    </Form>
-                    </Col>
-                </Row>
+                            <Form.Group controlId="formBasicPassword">
+                                <Form.Label size="sm">Email</Form.Label>
+                                <Form.Control size="sm" type="email" placeholder="" />
+                            </Form.Group>
+                            <Button className="submit_btn" type="submit">
+                                Submit
+                            </Button>
+                        </Form>
+                        </Col>
+                    </Row>
                 </div>
             </section>
             <section>

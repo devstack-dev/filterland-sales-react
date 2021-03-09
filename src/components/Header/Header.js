@@ -1,7 +1,7 @@
 import React, {useState} from "react";
 import './Header.scss';
 import { Button } from "react-bootstrap";
-import Arrow from "../../assets/imgs/arrowWhite.png";
+import Arrow from "../../assets/imgs/arr-svg.svg";
 import logoUrl from '../../assets/imgs/fs-logo.svg';
 import HamburgerButton from '../../assets/imgs/hamburger-btn.svg';
 import HamburgerButto from '../../components/NavHamburger/HamburgerButton'
