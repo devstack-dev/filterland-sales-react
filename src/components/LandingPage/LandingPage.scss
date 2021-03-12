@@ -52,6 +52,7 @@
   /* background-color: #0062cc; */
    border-color: 0; 
    box-shadow: 0px 2px 4px 1px rgba(0, 0, 0, 0.25);
+   background-color: 0;
 }
 .watch-demo {
   background: #F0C52C;
@@ -459,7 +460,7 @@ z-index: 100;
   }
   .section_content2 {
     background-color: white;
-    padding-top: 2em;
+    padding-top: 0em;
     padding-bottom: 2em;
     width: 100% !important;
     border-top: 1px solid #EAE0D9;
